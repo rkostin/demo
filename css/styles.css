@@ -14,7 +14,7 @@ h1, h2, h3 {
 	font-family: 'Amatic SC', cursive;
 	letter-spacing: 0.15em;
 	color: black;
-	margin-bottom: 0;
+	margin-bottom: 20px;
 }
 h1 + p { margin-top: 0.5em; }
 
